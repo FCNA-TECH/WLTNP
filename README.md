@@ -7,6 +7,7 @@
 
  I will carry out this task using two units: the letterbox unit and the homebase unit. both communicating with 
  each other via the HC-12 radio tranceiver and the notification being sent ia the ESP8266 NodeMcu V3 CH340G Wifi module.
+ I am using the Arduino IDE language of C++ to program this.
 
  The Letterbox Unit(TLU) - An arduino nano powered by a 9v battery placed inside the letterbox, An Ultrasonic sensor will 
  be placed inside the letterbox and be used to detect distance and any letter that comes through and send a signal to the 
