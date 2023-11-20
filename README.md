@@ -27,6 +27,6 @@
  1 x Ultraasonic sensor
  
 
-  Designed By Ferdinand Anyaeriuba 
+  Designed By Ferdinand
   Started - 12/03/2023
   Completed - 
