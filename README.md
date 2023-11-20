@@ -27,6 +27,6 @@
  1 x Ultraasonic sensor
  
 
-  Designed By Ferdinand
-  Started - 12/03/2023
+  Designed By Ferdinand,
+  Started - 12/03/2023,
   Completed - 
